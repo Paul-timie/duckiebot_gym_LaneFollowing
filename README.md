@@ -1,7 +1,8 @@
 # duckiebot_gym_LaneFollowing
--Duckiebot Lane Following
-                                                                          -Reference Professor Zhou Zejian
-## Installation 
+#### Duckiebot Lane Following
+#### Reference Professor Zhou Zejian
+## How to run the code
+##
 ## Install Anaconda
 Ref: [link](https://docs.anaconda.com/anaconda/install/linux/) 
 - Install the GUI tools for Ubuntu
@@ -87,5 +88,5 @@ git clone https://github.com/Paul-timie/duckiebot_gym_LaneFollowing.git
 python homework1.py
 
 ```
--Reference Professor Zhou Zejian
--Ayodele Paul
+##### Reference Professor Zhou Zejian
+##### Ayodele Paul
