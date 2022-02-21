@@ -62,6 +62,9 @@ while True:
     )
 
     env.render()
+    if env.step_count == 10200:
+        print("Done! Finished the whole map,")
+        break
 
 
     
