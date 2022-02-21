@@ -57,7 +57,7 @@ while True:
     total_reward += reward
 
     print(
-        "stage = %s, instant reward=%.3f, total reward=%.3f"
+        "stage = %s, instant reward=%.3f, total reward=%.3f, PRESS ESC KEY TO END SIMULATION"
         % (env.step_count, reward, total_reward)
     )
 
