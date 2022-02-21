@@ -49,23 +49,23 @@ conda activate base
 ```
 - Create a new environment
 ```
-conda create -n unh_robots python=3.7.11
+conda create -n my_robots python=3.7.11
 ```
 - Activate the created environment
   ```
- conda activate unh_robots
+ conda activate my_robots
 
 - Activate the anaconda environment
  ```
- conda activate unh_robots
+ conda activate my_robots
  ```
-- If you have created the `unh_duckie` folder before, skip this step. 
+- If you have created the `my_duckie` folder before, skip this step. 
  ```
- mkdir ~/unh_duckie
+ mkdir ~/my_duckie
  ```
 - Get into the operating directory. 
 ```
- cd ~/unh _duckie
+ cd ~/my_duckie
 ```
 - Download the package 
 ```
