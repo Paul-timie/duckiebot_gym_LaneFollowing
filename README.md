@@ -1,6 +1,6 @@
 # duckiebot_gym_LaneFollowing
 -Duckiebot Lane Following
--Reference Professor Zhou Zejian
+                                                                          -Reference Professor Zhou Zejian
 ## Installation 
 ## Install Anaconda
 Ref: [link](https://docs.anaconda.com/anaconda/install/linux/) 
